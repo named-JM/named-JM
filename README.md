@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently a volunteer on our official publication in our College
+- 🌱 I’m currently learning MySQL and Java
+- 🤔 I’m looking for help with skills growth and career path
+- 😄 Pronouns: she/her
 <!--
 **named-JM/named-JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi! My name is JM, a 3rd year Computer Science Student</h2>
+<h1 align="left">Hi! My name is JM, a 3rd year Computer Science Student</h1>
 
 ###
 
