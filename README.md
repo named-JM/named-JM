@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi! My name is JM, a 3rd year Computer Science Student</h1>
 
+
 ###
 
+<p>Here's my profile and social media incase you want to keep in touch!</p>
+<p>Pleased to meet you and lets connect to each other!</p>
 <br clear="both">
 
 <img align="left" height="200" src="https://im7.ezgif.com/tmp/ezgif-7-4a1027015f.gif"  />
@@ -74,3 +77,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<br>
+
+<br>
+<p>I'll keep improving and enhance my skills more to contribute in industry</p>
