@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ###
 
-
 ###
 
 <br clear="both">
@@ -92,6 +91,8 @@ Here are some ideas to get you started:
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://c.tenor.com/J63bVPkM9-kAAAAC/tenor.gif"  />
 
 ###
@@ -109,10 +110,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
 
 ###
