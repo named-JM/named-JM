@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"  />
+  <img height="350" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"  />
 </div>
 
 ###
@@ -41,16 +43,10 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="130" src="https://i.gifer.com/9TLY.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -63,7 +59,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.gifer.com/9TLY.gif"  />
 
 ###
 
@@ -91,13 +93,11 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://c.tenor.com/J63bVPkM9-kAAAAC/tenor.gif"  />
+<h3 align="left">My Socials:</h3>
 
 ###
 
-<h3 align="left">My Socials:</h3>
+<img align="left" height="200" src="https://c.tenor.com/J63bVPkM9-kAAAAC/tenor.gif"  />
 
 ###
 
@@ -105,7 +105,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/joannacaguco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://twitter.com/JMappear" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/2/#inbox?compose=CllgCJZdBdXdcdplLRRpLMQPFRXrHMnKQmvZprNmfqmXGgmqzxCjbLzgpKFZfccVGxNWqPSRRBV" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.facebook.com/JM.cags" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
