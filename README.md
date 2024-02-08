@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
 <br clear="both">
 
