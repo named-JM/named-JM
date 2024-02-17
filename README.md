@@ -116,5 +116,5 @@ Here are some ideas to get you started:
 ###
 <br>
 <a href="https://mail.google.com/mail/u/2/#inbox?compose=CllgCJZdBdXdcdplLRRpLMQPFRXrHMnKQmvZprNmfqmXGgmqzxCjbLzgpKFZfccVGxNWqPSRRBV" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<!--     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> -->
   joannacaguco@gmail.com  </a>
