@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/joannacaguco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
   </a>
 <!--   <a href="https://mail.google.com/mail/u/2/#inbox?compose=CllgCJZdBdXdcdplLRRpLMQPFRXrHMnKQmvZprNmfqmXGgmqzxCjbLzgpKFZfccVGxNWqPSRRBV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a> -->
+  </a>-->
   <a href="https://www.facebook.com/JM.cags" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -115,6 +115,9 @@ Here are some ideas to get you started:
 
 ###
 <br>
+<!--
+<div align="center">
 <a href="https://mail.google.com/mail/u/2/#inbox?compose=CllgCJZdBdXdcdplLRRpLMQPFRXrHMnKQmvZprNmfqmXGgmqzxCjbLzgpKFZfccVGxNWqPSRRBV" target="_blank">
-<!--     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> -->
-  joannacaguco@gmail.com  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> -->
+<!--   joannacaguco@gmail.com  </a>
+</div> -->
