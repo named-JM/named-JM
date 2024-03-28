@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 My name is JM! 
 - 🔭 I’m currently a volunteer on our official publication in our College
-- 🌱 I’m currently learning MySQL and Java
+- 🌱 I’m currently learning MySQL and PHP
 - 🤔 I’m looking for help with skills growth and career path
 - 😄 Pronouns: she/her
 
