@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 My name is JM! 
 
-###
 
+###
+<h3>Interested in the world of app development, gaming, and designing.</h3>
 
 <br clear="both">
 
@@ -31,11 +32,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">My tools:</h4>
+<h2 align="left">My tools:</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
@@ -63,11 +64,11 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h4 align="left">Want to learn and currently learning:</h4>
+<h2 align="left">Want to learn and currently learning:</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -81,7 +82,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h6 align="center">Interested in the world of app development, gaming, and designing.</h6>
+
 
 ###
 
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/joannacaguco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
