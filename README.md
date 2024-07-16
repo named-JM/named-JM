@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"  />
+</div>
+
+###
 <h1 align="center">Hi there! </h1>
 
 
@@ -23,14 +31,6 @@ Here are some ideas to get you started:
 
 ###
 <h3>Interested in the world of app development, gaming, and designing.</h3>
-
-<br clear="both">
-
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"  />
-</div>
-
-###
 
 <h2 align="left">My tools:</h2>
 
