@@ -56,8 +56,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
-<img align="right" height="200" src="https://i.gifer.com/9TLY.gif"  />
-
+<!--<img align="right" height="200" src="https://i.gifer.com/9TLY.gif"  />
+-->
 ###
 
 <h2 align="left">Want to learn and currently learning:</h2>
