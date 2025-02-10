@@ -1,4 +1,8 @@
-<h2 align="center">🌸Haloo! My name's JM !🌸</h2>
+<h2 align="center">૮꒰ ˶• ༝ •˶꒱ა ♡🌸Haloo! My name's JM !🌸♡૮꒰ ˶• ༝ •˶꒱ა</h2>
+
+###
+
+<h4 align="center">────୨ৎ────Freelance Mobile App Developer & Web Developer────୨ৎ────</h4>
 
 ###
 
@@ -7,6 +11,10 @@
   <img src="https://streak-stats.demolab.com?user=named-JM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=named-JM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h4 align="left">🌸My Tools     ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა           ⋆˚✿˖° 𐙚 ₊ ⊹ ♡⋆˚✿˖° 𐙚 ₊ ⊹ ♡⋆˚✿˖° 𐙚 ₊ ⊹ ♡⋆˚✿˖° 𐙚 ₊ ⊹ ♡⋆˚✿˖° 𐙚 ₊ ⊹ ♡⋆˚✿˖° 𐙚 ₊ ⊹ ♡</h4>
 
 ###
 
@@ -40,6 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
+<h4 align="left">🌸Let's talk through:   ♡ᰔ૮₍ ˃ ⤙ ˂ ₎ა ⊹ ♡</h4>
+
+###
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/M7-Ftr7tsz8AAAAM/dance.gif"  />
@@ -66,6 +77,18 @@
 
 ###
 
+<div align="left">
+  <a href="https://open.spotify.com/user/31n6gnjauyrs2tju2ygujfaras64">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n6gnjauyrs2tju2ygujfaras64&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+
+###
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JM.JM&left_color=lightpink&right_color=thistle&left_text=Stalkers%20jk%20:3"  />
 
 ###
+
