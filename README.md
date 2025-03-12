@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">────୨ৎ────Freelance Mobile App Developer & Web Developer────୨ৎ────</h4>
+<h4 align="center">────୨ৎ────Freelance Mobile App Developer────୨ৎ────</h4>
 
 ###
 
