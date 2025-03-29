@@ -70,15 +70,20 @@
 <img align="right" height="200" src="https://media.tenor.com/M7-Ftr7tsz8AAAAM/dance.gif"  />
 
 <div align="left">
-<div align="left">
-  💌 Email: joannacaguco@gmail.com  
-  📷 Instagram: [waninani_](https://www.instagram.com/waninani_/)  
-  🌝 LinkedIn: [Joanna Caguco](https://www.linkedin.com/in/joannacaguco/)  
-  🌐 [Facebook](https://web.facebook.com/JM.cags)  
-  🐟 Twitter: [JMappear](https://x.com/JMappear)  
+  <a href="mailto:joannacaguco@gmail.com">
+    <img src="https://img.shields.io/badge/💌%20Email-FFC0CB?style=for-the-badge" height="35">
+  </a>
+  <a href="https://www.instagram.com/waninani_">
+    <img src="https://img.shields.io/badge/📷%20Instagram-FFB6C1?style=for-the-badge" height="35">
+  </a>
+  <a href="https://www.linkedin.com/in/joannacaguco/">
+    <img src="https://img.shields.io/badge/🌝%20LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <a href="https://web.facebook.com/JM.cags">
+    <img src="https://img.shields.io/badge/🌐%20Facebook-FAA0A0?style=for-the-badge" height="35">
+  </a>
 </div>
-</div>
-###
+
 
 
 
