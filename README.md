@@ -21,7 +21,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <th>💖 Category</th>
