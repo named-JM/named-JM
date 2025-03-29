@@ -17,67 +17,67 @@
 
 ###
 
-<h4 align="left">🌸My Tools     ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡</h4>
+<h2 align="left">🌸My Tools     ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<table>
+  <tr>
+    <th>💖 Category</th>
+    <th>🌟 Technologies</th>
+  </tr>
+  <tr>
+    <td>📱 Mobile Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td>🎮 Game Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <!--  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">-->
+    </td>
+  </tr>
+  <tr>
+    <td>🌐 Web Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>🎨 Design & Editing</td>
+    <td>
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white">
+    </td>
+  </tr>
+</table>
 </div>
+
 
 <h4 align="left">🌸Let's talk through:   ♡ᰔ૮₍ ˃ ⤙ ˂ ₎ა ⊹ ♡</h4>
 
-###
-###
-
 <img align="right" height="200" src="https://media.tenor.com/M7-Ftr7tsz8AAAAM/dance.gif"  />
 
-###
-
 <div align="left">
-  <a href="https://www.instagram.com/waninani_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=waninani_&logo=instagram&label=&color=FFC0CB&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpctQTwvGcMlLDNqPqcnbPvMDFtHQkBqlbxlnvBrVpRzXwJGXmDsBwWqVwHHPGWxfdVRdV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=joannacaguco@gmail.com&logo=gmail&label=&color=FFB6C1&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joannacaguco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F8C8DC&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://web.facebook.com/JM.cags" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FAA0A0&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/JMappear" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=F3CFC6&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
-  </a>
+<div align="left">
+  💌 Email: joannacaguco@gmail.com  
+  📷 Instagram: [waninani_](https://www.instagram.com/waninani_/)  
+  🌝 LinkedIn: [Joanna Caguco](https://www.linkedin.com/in/joannacaguco/)  
+  🌐 [Facebook](https://web.facebook.com/JM.cags)  
+  🐟 Twitter: [JMappear](https://x.com/JMappear)  
 </div>
-
+</div>
 ###
 
 
