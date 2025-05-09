@@ -1,9 +1,9 @@
 <h2 align="center">૮꒰ ˶• ༝ •˶꒱ა ♡🌸Haloo! My name's JM !🌸♡૮꒰ ˶• ༝ •˶꒱ა</h2>
 
 ###
-
+<!--
 <h4 align="center">────୨ৎ────Freelance Mobile App Developer────୨ৎ────</h4>
-
+-->
 ###
 
 <div align="center">
@@ -67,18 +67,21 @@
 
 <h4 align="left">🌸Let's talk through:   ♡ᰔ૮₍ ˃ ⤙ ˂ ₎ა ⊹ ♡</h4>
 
-<img align="right" height="200" src="https://media.tenor.com/M7-Ftr7tsz8AAAAM/dance.gif"  />
+<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+  <img height="120" src="https://media.tenor.com/M7-Ftr7tsz8AAAAM/dance.gif" />
 
-<div align="left">
   <a href="mailto:joannacaguco@gmail.com">
     <img src="https://img.shields.io/badge/💌%20Email-FFC0CB?style=for-the-badge" height="35">
   </a>
+
   <a href="https://www.instagram.com/waninani_">
     <img src="https://img.shields.io/badge/📷%20Instagram-FFB6C1?style=for-the-badge" height="35">
   </a>
+
   <a href="https://www.linkedin.com/in/joannacaguco/">
     <img src="https://img.shields.io/badge/🌝%20LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
   </a>
+
   <a href="https://web.facebook.com/JM.cags">
     <img src="https://img.shields.io/badge/🌐%20Facebook-FAA0A0?style=for-the-badge" height="35">
   </a>
@@ -87,12 +90,13 @@
 
 
 
-###
-
 
 ###
 
+
+###
+<!--
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JM.JM&left_color=lightpink&right_color=thistle&left_text=Stalkers%20jk%20:3"  />
-
+-->
 ###
 
