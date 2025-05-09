@@ -1,4 +1,4 @@
-<h2 align="center">૮꒰ ˶• ༝ •˶꒱ა ♡🌸Haloo! My name's JM !🌸♡૮꒰ ˶• ༝ •˶꒱ა</h2>
+<h2 align="center">૮꒰ ˶• ༝ •˶꒱ა ♡Haloo! My name's JM !♡૮꒰ ˶• ༝ •˶꒱ა</h2>
 
 ###
 <!--
@@ -17,18 +17,18 @@
 
 ###
 
-<h2 align="left">🌸My Tools     ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡</h4>
+<h2 align="left">My Tools     ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡</h4>
 
 ###
 
 <div align="center">
 <table>
   <tr>
-    <th>💖 Category</th>
-    <th>🌟 Technologies</th>
+    <th>Category</th>
+    <th>Technologies</th>
   </tr>
   <tr>
-    <td>📱 Mobile Development</td>
+    <td>Mobile Development</td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -37,14 +37,14 @@
     </td>
   </tr>
   <tr>
-    <td>🎮 Game Development</td>
+    <td>Game Development</td>
     <td>
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <!--  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">-->
     </td>
   </tr>
   <tr>
-    <td>🌐 Web Development</td>
+    <td>Web Development</td>
     <td>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -53,7 +53,7 @@
     </td>
   </tr>
   <tr>
-    <td>🎨 Design & Editing</td>
+    <td>Design & Editing</td>
     <td>
       <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -65,7 +65,7 @@
 </div>
 
 
-<h4 align="left">🌸Let's talk through:   ♡ᰔ૮₍ ˃ ⤙ ˂ ₎ა ⊹ ♡</h4>
+<h4 align="left">Let's talk through:</h4>
 
 <div style="display: flex; align-items: center; gap: 40px;">
   <!-- Left side: 2x2 badges -->
